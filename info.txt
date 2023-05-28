@@ -1,1 +1,2 @@
 git is popular scm tool
+git is fast 
